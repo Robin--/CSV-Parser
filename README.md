@@ -14,7 +14,7 @@ string splitCharacter - the field split character. e.g. , .
 
 string quoteCharacter - the text field quote character to use e.g. " .
 
-bool trimWhiteSpaces - remove leading and trainign whitespaces from all fields e.g. True or False.
+bool trimWhiteSpaces - remove leading and trailing whitespaces from all fields e.g. True or False.
 
 bool useFields - Include the field header row in the output  e.g. True or False.
 
